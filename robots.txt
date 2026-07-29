@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://yxiuhuan.github.io/yingtaoshipi/sitemap.xml
